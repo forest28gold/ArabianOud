@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[AOMainViewController onNewArrivalCart:]:AOMainViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AOOrderDetailsViewController onCalculateGrandTotal]:AOOrderDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_orderData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AOMainViewController isContainsProductToCart:]:AOMainViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate application:didFinishLaunchingWithOptions:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__33-[AOLoginViewController onLogin:]_block_invoke:AOLoginViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalData sharedGlobalData].g_userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AOPaypalViewController onPaymentWithPaypal]:AOPaypalViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "payment.processable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__42-[AOCheckOutViewController onMakePayment:]_block_invoke:AOCheckOutViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
